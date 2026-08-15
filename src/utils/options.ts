@@ -1,0 +1,32 @@
+export const LANGUAGE_OPTIONS = [
+  'Any',
+  'English',
+  'Hindi',
+  'Hinglish',
+  'Spanish',
+  'French',
+  'German',
+  'Portuguese',
+  'Arabic',
+  'Bengali',
+  'Urdu',
+  'Other',
+];
+
+export const COUNTRY_OPTIONS = [
+  'Any country',
+  'United States',
+  'India',
+  'United Kingdom',
+  'Canada',
+  'Australia',
+  'Germany',
+  'France',
+  'Spain',
+  'Brazil',
+  'Mexico',
+  'Japan',
+  'South Korea',
+  'United Arab Emirates',
+  'Other',
+];
